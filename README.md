@@ -1,5 +1,7 @@
 # 🛡️ LLM Security Gateway & SOC Audit Logging
 
+![Sentinel LLM Security Gateway](sentinel_gateway_visual.jpg)
+
 A high-performance, bidirectional security gateway and SOC-ready audit logging middleware designed for Large Language Model (LLM) architectures. Built with **FastAPI**, **Pydantic**, and custom heuristic/algorithmic verification engines.
 
 ---
